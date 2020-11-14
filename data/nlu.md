@@ -1,0 +1,138 @@
+## intent:recherche
+- quel est
+- quels sont
+- quelle est
+- quelles sont
+- que faire
+- recherche
+- cherche-moi
+- cherche moi
+- je cherche
+- peux-tu chercher
+- tu peux chercher
+- peux-tu faire une recherche
+- tu peux faire une recherche
+- où chercher
+- trouver
+- trouve-moi
+- trouve moi
+- peux-tu trouver
+- où trouver
+- comment
+- comment faire
+- comment fait-on
+- comment on fait
+- comment dire
+- comment dit-on
+- comment on dit
+- je veux savoir
+- j'aimerais savoir
+- je voudrais savoir
+- je veux connaître
+- j'aimerais connaître
+- je voudrais connaître
+- est-ce que
+- qu'est-ce que
+- c'est quoi
+- questionner
+- question
+- définir
+- définition
+- décrire
+- description
+- interroger
+- interrogation
+- je ne comprends pas comment
+- je ne comprends pas pourquoi
+- je ne me souviens plus
+- j'ai oublié comment
+- j'ai oublié ce que
+- j'ai oublié ce qu'est
+- j'ai oublié qu'est-ce
+- j'aimerais apprendre
+- j'aimerais en apprendre plus
+- que sais-tu
+- que peux-tu me dire
+
+## intent:aide
+- m'aider
+- aide-moi
+- de l'aide ?
+- peux-tu m'aider
+- pouvez-vous m'aider
+- j'ai besoin d'aide
+- J'ai besoin d'aide
+- de l'aide s'il vous plaît
+- de l'aide s'il te plaît
+- est-ce que je peux te poser une question ?
+
+## intent:aurevoir
+- aurevoir
+- au revoir
+- adieu
+- bye
+- bye bye
+- ++
+- à plus
+- à plus tard
+- à tte
+- à tout à l'heure
+- allez salut
+- allé salu
+- bonne journée
+- bonne soirée
+- au plaisir
+- à bientôt
+- je me casse
+- je m'arrache
+- je taille
+- je décale
+- je m'en vais
+- je me barre
+
+## intent:bonjour
+- bonjour
+- le bonjour
+- bien le bonjour
+- bonsoir
+- le bonsoir
+- bien le bonsoir
+- salut
+- coucou
+- hello
+- yo
+- hi
+- hi there
+
+## intent:hors_sujet
+- D'où vient le vent ?
+- Pourquoi la vie ?
+- Pourquoi quelque chose plutôt que rien ?
+- J'ai faim
+- Réserve-moi un restaurant
+- J'ai soif
+- J'ai sommeil
+- Réserve-moi un hôtel
+- Ce bot est idiot
+- Bot de merde
+- de la merde
+- T'es nul
+- Quoi ?
+- Qu'est-ce que tu baves ?
+- Arrête
+- Stop
+- J'ai changé d'avis
+- Je te déteste
+- Je t'aime bien
+- Es-tu amoureux ?
+- Tu es amoureux ?
+- Je t'aime
+- Parle-moi
+- Je m'ennuie
+- Allez
+- Mais allez
+- Est-ce que tu sais compter ?
+- Tu ne sais pas tout ?
+- Pourquoi tu ne réponds pas ?
+- Tu sais chanter ?
+- Va me chercher une bière

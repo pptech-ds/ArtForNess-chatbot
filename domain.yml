@@ -1,0 +1,53 @@
+version: "2.0"
+
+intents:
+  - recherche
+  - aide
+  - aurevoir
+  - bonjour
+  - hors_sujet
+
+
+responses:
+  utter_bonjour:
+  - text: "Salut! Comment ca va?"
+
+  utter_aurevoir:
+  - text: "OK, bye!"
+
+  utter_recherche:
+  - text: Une petite seconde s'il-te-plaît...
+  - text: Ok je lance une recherche...
+  - text: C'est parti !
+  - text: Alors voyons...
+
+  utter_recherche_echouee:
+  - text: Je n'ai rien trouvé je suis désolé 🙁
+  - text: Aïe, je n'ai rien trouvé.
+
+
+slots:
+  recherche:
+    type: categorical
+    influence_conversation: true
+    values:
+    - reussie
+    - echouee
+
+  relance:
+    type: bool
+    influence_conversation: true
+
+
+actions:
+- action_rechercher
+- action_incomprehension
+- utter_aurevoir
+- utter_bonjour
+- utter_recherche
+- utter_recherche_echouee
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
