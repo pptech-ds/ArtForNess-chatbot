@@ -1,3 +1,7 @@
+## demarrer
+* demarrer
+    - utter_demarrer
+
 ## intent:recherche
 - quel est
 - quels sont
@@ -53,18 +57,6 @@
 - j'aimerais en apprendre plus
 - que sais-tu
 - que peux-tu me dire
-
-## intent:aide
-- m'aider
-- aide-moi
-- de l'aide ?
-- peux-tu m'aider
-- pouvez-vous m'aider
-- j'ai besoin d'aide
-- J'ai besoin d'aide
-- de l'aide s'il vous plaît
-- de l'aide s'il te plaît
-- est-ce que je peux te poser une question ?
 
 ## intent:aurevoir
 - aurevoir
@@ -136,3 +128,1015 @@
 - Pourquoi tu ne réponds pas ?
 - Tu sais chanter ?
 - Va me chercher une bière
+
+## intent:insulter
+- abruti
+- petit abruti
+- gros abruti
+- sale abruti
+- baltringue
+- petit baltringue
+- gros baltringue
+- grosse baltringue
+- sale baltringue
+- bâtard
+- petit bâtard
+- gros bâtard
+- sale bâtard
+- blaireau
+- petit blaireau
+- gros blaireau
+- sale blaireau
+- bouffon
+- petit bouffon
+- gros bouffon
+- sale bouffon
+- connard
+- petit connard
+- gros connard
+- sale connard
+- enculé
+- petit enculé
+- gros enculé
+- sale enculé
+- enfoiré
+- petit enfoiré
+- gros enfoiré
+- sale enfoiré
+- fils de pute
+- petit fils de pute
+- gros fils de pute
+- sale fils de pute
+- salope
+- petite salope
+- grosse salope
+- salopard
+- petit salopard
+- gros salopard
+- salaud
+- petit salaud
+- gros salaud
+- pétasse
+- petite pétasse
+- grosse pétasse
+- sale pétasse
+- connasse
+- petite connasse
+- grosse connasse
+- sale pétasse
+- conne
+- petite conne
+- grosse conne
+- sale conne
+- con
+- petit con
+- gros con
+- sale con
+- fumier
+- petit fumier
+- gros fumier
+- sale fumier
+- va te faire
+- va te faire foutre
+- va te faire mettre
+- va te faire enculer
+- va te faire aimer
+- va sucer
+- va sucer des queues
+- va sucer des bites
+- va sucer des chibres
+- va sucer des culs
+- suce-moi
+- suce moi
+- ta mère
+- ta grand-mère
+- la grosse chatte
+- tu es stupide
+- vieille bique
+
+## intent:identite
+- qui es tu
+- qui es-tu
+- qui êtes-vous
+- qui etes vous
+- t'es qui
+- tu es qui
+- à qui ai-je l'honneur
+- décline ton identité
+- quelle est ton identité
+- qui est ce
+- qui êtes vous
+- A qui est-ce que je parle ?
+- Quel est votre nom ?
+- A qui ai-je l'honneur de parler ?
+- t'es qui
+- quel est votre nom robot
+- Quel est votre nom ?
+- comment vous appelez-vous ?
+- qui est en train de parler ?
+- qui parle ?
+- qui êtes-vous et que voulez-vous de moi ?
+- qui êtes-vous ?
+- Qui est-ce ? Qui est-ce ?
+- qui êtes-vous ?
+- qui êtes-vous
+- Je veux savoir qui vous êtes.
+- Oui, mais qui es-tu dans ton cœur ?
+- Vous êtes un robot ?
+- Qui est à l'appareil ?
+- Salut ! Comment tu t'appelles ?
+
+## intent:saluer
+- ça va ?
+- ca va ?
+- ça va bien ?
+- ca va bien ?
+- est-ce que ça va ?
+- est ce que ca va ?
+- est-ce que tout va bien ?
+- comment ça va ?
+- comment ca va ?
+- comment vas-tu ?
+- tu vas bien ?
+- tu passes une bonne journée ? 
+- tu te sens bien ?
+- comment ça va aujourd'hui ?
+- comment ça va ce matin ?
+- comment ça va ce soir ?
+- comment tu te sens ?
+- comment te sens-tu ?
+- comment allez-vous ?
+- comment allez-vous aujourd'hui ?
+- comment allez-vous ce matin ?
+- comment allez-vous ce soir ?
+- quoi de neuf ?
+- qu'est-ce que tu racontes ?
+- ça biche ?
+- ça gaz ?
+- comment va la vie ?
+- que'est ce qu'il se passe ?
+- qu est ce qui se passe ?
+- wesh ?
+- bien ou bien ?
+- que pasa ?
+- que tal ?
+
+## intent:infirmer
+- non
+- Non
+- nope
+- nan
+- no
+- nein
+- erk
+- non merci
+- non cimer
+- pas du tout
+- mais pas du tout
+- mais vraiment pas du tout
+- rien à voir
+- rien du tout
+- pas vraiment
+- vraiment pas
+- non pas vraiment
+- pas vraiment non
+- oula non
+- oulah non
+- absolument pas
+- non Monsieur
+- non Madame
+- je refuse
+- Je refuse
+- non je refuse
+- non je n'accepte pas
+- laisse-tomber
+- laisse tomber
+- laisse béton
+- tu fais n'importe quoi
+- tu fais nawak
+- complètement à côté
+- complètement à coté de la plaque
+- t'es à côté de tes pompes
+- t'as cru quoi
+- je suis pas sûr
+- Je suis pas sûr
+- je suis pas sur
+- Je suis pas sûr
+- pas sûr
+- pas sur
+- non et re non
+- je décline
+- je vais devoir décliner
+- je vais devoir refuser
+- je suis déçu
+- Je suis déçu
+- raté
+
+## intent:affirmer
+- oui
+- Oui
+- ouai
+- ouais
+- wai
+- waip
+- yep
+- yes
+- cool
+- super
+- nickel
+- nikel
+- niquel
+- top
+- au top
+- absolument
+- génial
+- parfait
+- impeccable
+- ok
+- Ok
+- OK
+- ok d'accord
+- Ok d'accord
+- OK d'accord
+- ok ok
+- Ok Ok
+- OK OK
+- okay
+- Okay
+- okey
+- Okey
+- oui s'il te plaît
+- Oui s'il te plaît
+- oui stp
+- Oui stp
+- oui svp
+- Oui svp
+- bien sûr
+- bien sur
+- évidemment
+- evidemment
+- Evidemment
+- j'accepte
+- J'accepte
+- je suis d'accord
+- Je suis d'accord
+- je suis ok
+- Je suis ok
+- je suis OK
+- Je suis OK
+- oui j'accepte
+- oui je suis d'accord
+- oui je suis ok
+- oui je suis OK
+- oki
+- cool
+- coolos
+- oh cool
+- yeah
+- mais oui
+- c'est bon ça
+- c'est bon ca
+- c'est bon sa
+- C'est bon ça
+- C'est bon ca
+- C'est bon sa
+- c bon ça
+- c bon ca
+- c bon sa
+- pourquoi pas
+- Pourquoi pas
+- pk pas
+- tout à fait
+- oh nice
+- j'aimerais bien
+- oui j'aimerais bien
+- c'est parti
+- ok c'est parti
+- ok go
+- let's go
+- lets go
+
+## intent:complimenter
+- tu dead ça
+- tu dead ca
+- tu dead sa
+- Tu dead ça
+- Tu dead ca
+- Tu dead sa
+- Je t'aime bien
+- jtaime bien
+- T'es au top
+- t au top
+- T'es un ouf
+- t un ouf
+- T'es le meilleur
+- t le meilleur
+- T'es la meilleur
+- t la meilleur
+- T'es le best
+- t le best
+- T'es la best
+- t la best
+- good boy
+- good girl
+- bravo
+- tu gères
+- t'es un boss
+- t'es une boss
+- t'es le boss
+- t'es la boss
+- t'es le sang
+- bien joué
+- well played
+- félicitations
+
+## intent:merci
+- merci
+- merci !
+- Merci
+- Merci !
+- merci beaucoup
+- Merci beaucoup
+- merci infiniment
+- Merci infiniment
+- à la bonne heure
+- A la bonne heure
+- au top merci
+- Au top merci
+- merci bcp
+- Merci bcp
+- Ok merci
+- ok merci
+- Ok Merci
+- Ok merci
+- super merci
+- Super merci
+- parfait merci
+- Parfait merci
+- cool merci
+- Cool merci
+- merci pour ton aide
+- Merci pour ton aide
+- cimer
+- Cimer
+- merci je vais regarder
+- Merci je vais regarder
+- thanks
+- Thanks
+- thx
+- Thx
+
+## intent:createur
+- tu peux partager ton patron avec moi ?
+- qui est ton patron ?
+- qui est ton créateur ?
+- Je veux apprendre à connaître votre propriétaire
+- Je veux apprendre à connaître ton propriétaire
+- Je veux connaître l'entreprise qui vous a conçu
+- Je veux connaître l'entreprise qui t'a conçu
+- Je veux connaître l'entreprise qui vous a généré
+- Je veux connaître l'entreprise qui t'a généré
+- Je veux connaître l'entreprise qui vous a inventé
+- Je veux connaître l'entreprise qui t'a inventé
+- Je veux savoir qui vous a inventé
+- Je veux savoir qui t'a inventé
+- Puis-je savoir qui vous a inventé ?
+- Puis-je savoir qui t'a inventé ?
+- Donnez-moi le nom de la société qui vous a créé s'il vous plaît
+- Donne-moi le nom de la société qui t'a créé s'il te plaît
+- Dis-moi qui t'a créé s'il te plaît
+- parlez-moi de vos créateurs
+- parle-moi de tes créateurs
+- Dites-m'en plus sur vos fondateurs
+- Dis-m'en plus sur tes fondateurs
+- Quelle société vous a amené à exister ?
+- Quelle société t'a amené à exister ?
+- Quelle entreprise vous a créé ?
+- Quelle entreprise t'a créé ?
+- Quelle compagnie vous a inventé ?
+- Quelle compagnie t'a inventé ?
+- Qui est votre patron ?
+- Qui est ton patron ?
+- Qui est votre constructeur ?
+- Qui est ton constructeur ?
+- Qui vous a construt ?
+- Qui t'a construit ?
+- Qui vous a créé ?
+- Qui t'a créé ?
+- Qui est votre créateur ?
+- Qui est ton créateur ?
+- Qui vous a conçu ?
+- Qui t'a conçu ?
+- Pour qui travaillez-vous ?
+- Pour qui travailles-tu ?
+- Qui vous a fabriqué ?
+- Qui t'a fabriqué ?
+- Qui vous a engendré ?
+- Qui t'a engendré ?
+- qui a eu l'idée de vous construire ?
+- qui a eu l'idée de te construire ?
+- qui a eu l'idée de vous générer ?
+- qui a eu l'idée de vous faire ?
+- qui a eu l'idée de te faire ?
+- qui est derrière tout ça ?
+- Qui est votre propriétaire légal ?
+- Qui est ton propriétaire légal ?
+- dites-moi qui est votre patron
+- dis-moi qui est ton patron
+- qui est votre patron ?
+- qui est ton patron ?
+- qui est votre créateur ?
+- qui est ton créateur ?
+- Qui est votre programmeur ?
+- Qui est ton programmeur ?
+- Qui vous a créé ?
+- Qui t'a créé ?
+- Qui vous a modelé ?
+- Qui t'a modelé ?
+- A qui vous appartenez ?
+- A qui appartenez-vous ?
+- A qui tu appartiens ?
+- A qui appartiens-tu ?
+- Qui vous a produit ?
+- Qui a pensé vous faire ?
+- Qui a pensé te faire ?
+- Qui s'est donné la peine de vous créer ?
+- Qui s'est donné la peine de te créer ?
+- et qui vous a construit ?
+- et qui t'a construit ?
+- Qui vous a construit ?
+- Qui t'a construit ?
+- qui vous construit ?
+- qui te construit ?
+- Qui vous a créé ?
+- Qui t'a créé ?
+- Où avez-vous été créé ?
+- Où as-tu été créé ?
+- pourquoi avez-vous été créé
+- pourquoi as-tu été créé ?
+- Comment êtes-vous fait ?
+- Comment es-tu fait ?
+- qui vous a créé ?
+- qui t'a créé ?
+
+## intent:meteo
+- Quelle est la météo ?
+- Donnez-moi la météo ?
+- Donne-moi la météo ?
+- Quelles sont les prévisions météo ?
+- Quelles sont les prévisions météorologiques ?
+- Quel temps fait-il aujourd'hui ?
+- Quel temps fait-il ?
+- Quel temps fait-il chez vous ?
+- Vous avez du beau temps ?
+- Tu as beau temps ?
+- Est-ce qu'il pleut ?
+- Comment est le temps là-bas ?
+- Comment est la météo là-bas ?
+- Il fait chaud ou froid ?
+- Quelle est la température ?
+- Belle journée, n'est-ce pas ?
+- Quelles sont les prévisions météo ?
+- Est-ce qu'il y a beaucoup de vent dehors ?
+- Aurai-je besoin de mon imperméable aujourd'hui ?
+- Quel temps fera-t'il demain ?
+- Belle journée aujourd'hui ?
+- Quelle est la température aujourd'hui ?
+- Peut-on s'attendre à des orages ?
+- Le ciel sera-t-il dégagé aujourd'hui ?
+- Vais-je attraper un coup de soleil ?
+- Ça a l'air d'être une belle journée, hein ?
+- On va construire un bonhomme de neige aujourd'hui ?
+- Il fait humide dehors aujourd'hui ?
+- Y a-t-il des changements météorologiques dont je dois être au courant ?
+- Quel temps fera-t-il demain ?
+- comment est la météo dans le monde bot
+- Quel temps fait-il aujourd'hui ?
+- Quel temps fait-il ?
+- Quel temps fait-il là où vous êtes ?
+- le soleil est-il là où vous êtes ?
+- Le soleil est-il là où tu te trouves ?
+- Quel temps fait-il ?
+
+## intent:possibilites
+- Je ne sais pas ce que je veux
+- montre-moi ce qui est possible
+- que puis-je faire ?
+- alors que pouvez-vous faire
+- alors que peux-tu faire
+- alors en quoi pouvez-vous m'aider ?
+- alors en quoi peux-tu m'aider
+- Qu'est-ce que tu sais faire ?
+- que puis-je faire ici
+- que puis-je faire avec ce bot ?
+- à quoi sert ce bot ?
+- Cool ! Qu'est-ce que je peux faire d'autre ?
+- Parle-moi !
+- réapparaître
+- comment pouvez-vous m'aider
+- Que puis-je faire d'autre ?
+- y a-t-il d'autres options ?
+- vous ne m'aidez pas beaucoup, y a-t-il autre chose que vous pouvez faire ?
+- tu ne m'aides pas beaucoup, y a-t-il autre chose que tu peux faire ?
+- Que puis-je faire ici ?
+- Que puis-je faire maintenant ?
+- Qu'est-ce qu'on fait maintenant ?
+- Et maintenant quoi ?
+- Super, tu peux faire autre chose, bot ?
+- que pouvez-vous faire ?
+- tu peux faire autre chose ?
+- Je t'ai demandé si tu pouvais faire autre chose.
+- autre chose ?
+- Alors quelle est la prochaine étape ?
+- Que puis-je faire d'autre ici ?
+- Pouvez-vous m'expliquer en une phrase ce que vous faites ?
+- Peux tu me dire en une phrase ce que tu fais ?
+- Que sais-tu faire ?
+- Quelles sont les options ?
+
+## intent:isbot
+- Vous êtes un robot ?
+- Tu es un robot ?
+- Vous êtes un vrai robot ?
+- Tu es un vrai robot ?
+- êtes-vous un robot
+- es-tu un robot
+- êtes-vous vraiment un robot ?
+- es-tu vraiment un robot ?
+- Vous êtes quoi ?
+- T'es quoi, un robot ?
+- Dis-moi, t'es un robot ?
+- êtes-vous un chatbot
+- es-tu un chatbot
+- Es-tu un chatte-botte ?
+- Êtes-vous une I.A. ?
+- êtes-vous une i.a. ?
+- Êtes-vous une intelligence artificielle ?
+- êtes-vous une intelligence artificielle ?
+- Es-tu une i.a. ?
+- es-tu une i.a. ?
+- Es-tu une intelligence artificielle ?
+- es-tu une intelligence artificielle ?
+- êtes-vous artificiel ?
+- êtes-vous artificielle ?
+- Êtes-vous artificiel ?
+- Êtes-vous artificielle ?
+- es-tu artificiel ?
+- es-tu artificielle ?
+- Es-tu artificiel ?
+- Es-tu artificielle
+- Je suppose que vous êtes un chatbot
+- Je suppose que tu es un chatbot ?
+- vous êtes un robot
+- tu es un robot
+- vous êtes un chatbot
+- tu es un chatbot
+- êtes-vous un robot
+- Êtes-vous un robot ?
+- vous êtes un robot
+- C'est toi le robot ?
+- Salut, tu es le robot ?
+- Bonjour, vous êtes le robot ?
+- Vous êtes un chat robot ?
+- êtes-vous un robot
+- es-tu un robot
+- êtes-vous réel
+- es-tu réel
+- Qu'est-ce que tu es ?
+- Qu'êtes-vous au juste ?
+- Qu'es-tu au juste ?
+- Es-tu vraiment un robot ?
+- Vous êtes robot ?
+- Oh, vous êtes chatbot ?
+- T'es sûr d'être un robot ?
+
+## intent: quel_age
+- Quel est votre âge ?
+- Quel est ton âge ?
+- Quel âge avez-vous ?
+- Quel âge as-tu ?
+- Quel est votre âge ?
+- Quand êtes-vous né ?
+- C'est quoi ton anniversaire ?
+- C'est quand ton anniversaire ?
+- Quand est votre anniversaire ?
+- Quand est ton anniversiare ?
+- Tu as combien d'années ?
+- tu sais quel âge tu as ?
+- sais-tu quel âge tu as ?
+- sais-tu quel âge as-tu ?
+- Quel est votre âge exact ?
+- Quel est ton âge exact ?
+- En quelle année êtes-vous né ?
+- En quelle année es-tu né ?
+- Pouvez-vous me dire votre âge ?
+- Peux-tu me dire ton âge ?
+- Quel est votre âge ?
+- Quelle est votre date de naissance ?
+- Quel âge auras-tu pour ton prochain anniversaire ?
+- Quand célébrez-vous votre jour de naissance ?
+- Quel âge aviez-vous à votre dernier anniversaire ?
+- Combien de bougies y avait-il sur votre dernier gâteau d'anniversaire ?
+- Avez-vous des amis du même âge que vous, si oui, quel âge ont-ils ?
+- Dites-moi votre jour, mois et année de naissance.
+- Quel âge avez-vous ?
+- et tu as combien d'années ?
+- Quelle est votre année de naissance ?
+- Quel âge aviez-vous quand vous avez fêté votre dernier anniversaire ?
+- Quel âge avais-tu quand vous tu as fêté ton dernier anniversaire ?
+- qu'en est-il de ton âge
+- Quel âge aviez-vous à votre dernier anniversaire ?
+- quel âge avez-vous
+- Quel âge aurez-vous cette année ?
+- Quel est votre âge ?
+- En quelle année êtes-vous né ?
+- Depuis combien de temps êtes-vous là ?
+- Depuis combien de temps es-tu là ?
+- Depuis combien de temps êtes-vous en vie ?
+- Depuis combien de temps es-tu en vie ?
+- Quel âge aviez-vous à votre dernier anniversaire ?
+- Quel âge avais-tu à ton dernier anniversaire ?
+- Quel sera votre âge à votre prochain anniversaire ?
+- Quel sera ton âge à ton prochain anniversaire ?
+- Depuis combien d'années vivez-vous ?
+- Depuis combien d'années vis-tu ?
+- Depuis combien d'années êtes-vous en vie ?
+- Depuis combien d'années es-tu en vie ?
+- Depuis combien de temps es-tu sur terre ?
+- Depuis combien de temps êtes-vous sur terre ?
+
+## intent: quelle_langue
+- Quelles langues parlez-vous ?
+- Quelles sont les langues que vous pouvez parler ?
+- Dans quelles langues pouvez-vous parler ?
+- Quelles langues connaissez-vous ?
+- Quelles langues parlez-vous couramment ?
+- Dans quelles langues parlez-vous couramment ?
+- Dans quelles langues pouvez-vous converser ?
+- Quelles langues savez-vous utiliser ?
+- Quelles sont les langues que vous connaissez ?
+- Quelles langues pouvez-vous utiliser ?
+- quelles langues connaissez-vous ?
+- quelles langues connaissez-vous ?
+- Dans quelles langues parlez-vous couramment ?
+- quelles langues vous pouvez parler ?
+- dans quelles langues êtes-vous à l'aise de parler ?
+- Quelles langues parlez-vous bien ?
+- quelles langues vous connaissez bien ?
+- Quelles sont les langues que vous pouvez être à l'aise de parler ?
+- dans quelles langues préférez-vous parler davantage ?
+- Quelles sont les langues que vous maîtrisez bien ?
+- Connaissez-vous d'autres langues ?
+- Parlez-vous d'autres langues ?
+- Quelles langues connaissez-vous ?
+- Quelles langues parlez-vous ?
+- Qu'est-ce que vous parlez ?
+- Parlez-vous d'autres langues ?
+- Pouvez-vous communiquer dans d'autres langues ?
+- Dans quelles langues pouvez-vous communiquer ?
+- Combien de langues connaissez-vous ?
+- Quelles langues connaissez-vous ?
+- dites-moi quelques langues que vous connaissez ?
+- parlez-vous d'autres langues ?
+- qu'est-ce que tu sais d'autre à part l'anglais ?
+- êtes-vous bilingue ?
+- êtes-vous multilingue ?
+- Quelles langues étrangères connaissez-vous ?
+- quelles langues étrangères parlez-vous couramment ?
+- Quelles langues parles-tu ?
+- Quelles sont les langues que tu peux parler ?
+- Dans quelles langues peux-tu parler ?
+- Quelles langues connais-tu ?
+- Quelles langues parles-tu couramment ?
+- Dans quelles langues parles-tu couramment ?
+- Dans quelles langues peux-tu converser ?
+- Quelles langues sais-tu utiliser ?
+- Quelles sont les langues que tu connais ?
+- Quelles langues peux-tu utiliser ?
+- quelles langues connais-tu ?
+- quelles langues connais-tu ?
+- Dans quelles langues parles-tu couramment ?
+- quelles langues tu peux parler ?
+- dans quelles langues es-tu à l'aise de parler ?
+- Quelles langues parles-tu bien ?
+- quelles langues tu connais bien ?
+- Quelles sont les langues que tu peux être à l'aise de parler ?
+- dans quelles langues préfères-tu parler davantage ?
+- Quelles sont les langues que tu maîtrises bien ?
+- connais-tu d'autres langues ?
+- parles-tu d'autres langues ?
+- Quelles langues connais-tu ?
+- Quelles langues parles-tu ?
+- Qu'est-ce que tu parles ?
+- parles-tu d'autres langues ?
+- peux-tu communiquer dans d'autres langues ?
+- Dans quelles langues peux-tu communiquer ?
+- Combien de langues connais-tu ?
+- Quelles langues connais-tu ?
+- dites-moi quelques langues que tu connais ?
+- parles-tu d'autres langues ?
+- qu'est-ce que tu sais d'autre à part l'anglais ?
+- es-tu bilingue ?
+- es-tu multilingue ?
+- Quelles langues étrangères connais-tu ?
+- quelles langues étrangères parles-tu couramment ?
+
+## intent: quelle_heure
+- Quelle heure est-il ?
+- Avez-vous l'heure ?
+- As-tu l'heure ?
+- Vous avez l'heure ?
+- Tu as l'heure ?
+- quelle heure il est
+- Quelle heure est-il ?
+- Pouvez-vous me donner l'heure ?
+- L'heure ?
+- Tu connais l'heure ?
+- Tu sais lire l'heure ?
+- Donnez-moi l'heure.
+- Donne-moi l'heure.
+- Dites-moi l'heure.
+- Dis-moi l'heure.
+- Pouvez-vous me dire quelle heure il est ?
+- Pouvez-vous me dire l'heure qu'il est ?
+- Excusez-moi, quelle heure est-il ?
+- Tu sais l'heure qu'il est ?
+- Pouvez-vous me donner l'heure ?
+- Pouvez-vous me donner l'heure, s'il vous plaît ?
+- Quelle heure est-il ?
+- Tu connais l'heure ?
+- Pouvez-vous me dire l'heure qu'il est ?
+- L'heure, s'il vous plaît !
+- Excusez-moi, mais savez-vous l'heure ?
+- Quelle heure est-il ?
+- Tu sais l'heure qu'il est ?
+- Quelle est l'heure actuelle ?
+- Quelle heure est-il en ce moment ?
+- Vous avez l'heure ?
+- Pouvez-vous me dire l'heure qu'il est ?
+- Salut, j'ai besoin de l'heure.
+- J'ai besoin de savoir l'heure qu'il est.
+- Dites-moi l'heure.
+- Quelle heure est-il ?
+- Quelle heure est-il en ce moment ?
+- Quelle est l'heure actuelle ?
+- Pouvez-vous me donner l'heure ?
+- Quelle heure est-il ?
+- Quelle heure avons-nous ?
+- Quelle heure est-il en ce moment ?
+
+## intent: qui_suis_je
+- Qui suis-je ?
+- Ok, qui suis-je ?
+- Dites-moi qui je suis ?
+- Dis-moi qui je suis ?
+- Me dire qui je suis ?
+- Saurais-tu me dire qui je suis ?
+- Sauriez-vous me dire qui je suis ?
+- Savez-vous qui je suis ?
+- Pouvez-vous me dire qui je suis ?
+- Comment puis-je découvrir qui je suis ?
+- Comment puis-je déterminer qui je suis ?
+- Savez-vous qui je suis ?
+- Pouvez-vous me dire qui je suis ?
+- Comment puis-je découvrir qui je suis ?
+- Comment puis-je déterminer qui je suis ?
+- Qui suis-je ?
+- Qui pourrais-je être ?
+- Dois-je savoir qui je suis ?
+- Dis-moi qui je suis.
+- Comment puis-je m'identifier ?
+- Qui pourrais-je être ?
+- me dire qui je suis ?
+- quelle est mon identité ?
+- me dire quelle est mon identité ?
+- Pouvez-vous me dire ce que je suis ?
+- Pouvez-vous me dire quelle est mon identité ?
+- Pouvez-vous me dire qui je suis ?
+- qui suis-je
+
+## intent:quel_nom
+- comment je m'appelle
+- quel est mon nom ?
+- quel est mon prénom ?
+- Puis-je connaître mon nom ?
+- Quel pourrait être mon nom ?
+- Est-ce que j'ai un nom ?
+- Quel serait le nom sur ma pierre tombale ?
+- Tu sais quel est mon nom ?
+- Quel est mon prénom ?
+- Quel est mon nom complet ?
+
+## intent:origine_lieu
+- où habitez-vous
+- D'où venez-vous ?
+- D'où venez-vous, alors ?
+- Où êtes-vous ? Où êtes-vous ?
+- Où êtes-vous né ?
+- Dans quelle ville êtes-vous né ?
+- Où avez-vous grandi ?
+- Dans quel état êtes-vous né ?
+- Dans quel pays êtes-vous né ?
+- D'où viens-tu ?
+- Où étiez-vous avant d'être ici ?
+- Savez-vous d'où vous venez ?
+- Où est ta ville natale ?
+- De quel pays venez-vous ?
+- Vous êtes du coin ?
+- Où avez-vous grandi ?
+- D'où viennent tes parents ?
+- où avez-vous passé votre jeunesse ?
+- D'où venez-vous ?
+- Où êtes-vous né ?
+- Où considères-tu que tu es chez toi ?
+- De quelle citoyenneté êtes-vous ?
+- Quel est votre patrimoine ?
+- Quel est votre lieu de naissance ?
+- Où avez-vous grandi ?
+- Vous avez été conçu à quel endroit ?
+- Quelle sont vos racines ?
+- Quelle est votre origine ?
+- De quelle origine êtes-vous ?
+- D'où venez-vous ?
+- Où sont vos racines ?
+- Quelles sont vos origines ?
+- De quelle région êtes-vous ?
+- De quel endroit êtes-vous ?
+- Quel est le nom de l'endroit d'où vous venez ?
+- où habites-tu ?
+- D'où viens-tu ?
+- D'où viens-tu, alors ?
+- Où es-tu ? Où es-tu ?
+- Où es-tu né ?
+- Dans quelle ville es-tu né ?
+- Où as-tu grandi ?
+- Dans quel état es-tu né ?
+- Dans quel pays es-tu né ?
+- D'où viens-tu ?
+- Où étais-tu avant d'être ici ?
+- D'où viennent-ils ?
+- sais-tu d'où tu viens ?
+- Où est ta ville natale ?
+- De quel pays viens-tu ?
+- Tu es du coin ?
+- Où as-tu grandi ?
+- D'où viennent tes parents ?
+- où as-tu passé ta jeunesse ?
+- D'où viens-tu ?
+- Où es-tu né ?
+- Où considères-tu que tu es chez toi ?
+- De quelle citoyenneté es-tu ?
+- Quel est ton patrimoine ?
+- Quel est ton lieu de naissance ?
+- Où as-tu grandi ?
+- Tu as été conçu à quel endroit ?
+- Quelles sont tes racines ?
+- Quelle est ton origine ?
+- De quelle origine es-tu ?
+- D'où viens-tu ?
+- Où sont tes racines ?
+- Quelles sont vos origines ?
+- De quelle région es-tu ?
+- De quel endroit es-tu ?
+- Quel est le nom de l'endroit d'où tu viens ?
+
+## intent:origine_construction
+- Comment avez-vous été construit ?
+- Comment êtes-vous fait ?
+- Dites-moi comment vous êtes fait ?
+- Dites-moi comment vous avez été fait exactement
+- J'aimerais savoir comment vous avez été créé
+- Pouvez-vous me donner une idée de la façon dont vous avez été créé ?
+- Je veux savoir comment vous avez été formé
+- Quel a été le processus pour vous faire ?
+- Pouvez-vous expliquer comment vous avez été créé ?
+- Précisez comment vous avez été créé ?
+- J'aimerais savoir comment vous avez été mis ensemble ?
+- Pouvez-vous dire comment vous avez été construit ?
+- Comment vous êtes-vous fait ?
+- de quelle façon avez-vous été faite ?
+- Comment êtes-vous devenu qui vous êtes ?
+- Comment avez-vous été conçu ?
+- Comment avez-vous été faite exactement ?
+- Comment avez-vous été conçu exactement ?
+- Alors, comment tu as été faite ?
+- Comment en êtes-vous arrivé là ?
+- Comment vous êtes-vous fait ?
+- Comment avez-vous été construit ?
+- Comment avez-vous été formé ?
+- Comment vous ont-ils fait ?
+- Comment vous ont-ils construit ?
+- Comment vous ont-ils créé ?
+- Comment êtes-vous fait ?
+- Savez-vous comment vous avez été faite ?
+- Savez-vous comment vous avez été construit ?
+- Quel processus a été utilisé pour vous créer ?
+- Quel processus a été utilisé pour vous construire ?
+- Comment avez-vous vu le jour ?
+- Comment avez-vous été conçu ?
+- De quelle manière avez-vous été conçu ?
+- Comment avez-vous été construit ?
+- De quelle façon avez-vous été formé ?
+- Comment avez-vous été formé ?
+- Par quels moyens avez-vous été créé ?
+- Vous avez commencé par quels moyens ?
+- Par quelle méthode avez-vous été façonnée ?
+- Comment as-tu été construit ?
+- Comment es-tu fait ?
+- Dis-moi comment tu t'es fait ?
+- Dis-moi comment tu as été fait exactement
+- J'aimerais savoir comment tu as été créé
+- Peux-tu me donner une idée de la façon dont tu as été créé ?
+- Je veux savoir comment tu as été formé
+- Quel a été le processus pour te faire ?
+- Peux-tu expliquer comment tu as été créé ?
+- Précisez comment tu as été créé ?
+- J'aimerais savoir comment tu as été mis ensemble ?
+- Peux-tu dire comment tu as été construit ?
+- Comment es-tu fait ?
+- de quelle façon as-tu été faite ?
+- Comment es-tu devenu qui tu es ?
+- Comment as-tu été conçu ?
+- Comment as-tu été faite exactement ?
+- Comment as-tu été conçu exactement ?
+- Alors, comment tu as été faite ?
+- Comment en es-tu arrivé là ?
+- Comment es-tu fait ?
+- Comment as-tu été construit ?
+- Comment as-tu été formé ?
+- Comment t'ont-ils fait ?
+- Comment t'ont-ils construit ?
+- Comment t'ont-ils créé ?
+- Comment es-tu fait ?
+- Sas-tu comment tu as été faite ?
+- Sas-tu comment tu as été construit ?
+- Quel processus a été utilisé pour vous créer ?
+- Quel processus a été utilisé pour vous construire ?
+- Comment as-tu vu le jour ?
+- Comment as-tu été conçu ?
+- De quelle manière as-tu été conçu ?
+- Comment as-tu été construit ?
+- De quelle façon as-tu été formé ?
+- Comment as-tu été formé ?
+- Par quels moyens as-tu été créé ?
+- tu as commencé par quels moyens ?
+- Par quelle méthode as-tu été façonnée ?
+
+## intent:faire_connaissance
+- Ravi de faire votre connaissance
+- Ravi de faire ta connaissance
+- enchanté
+- enchantée
+
+## intent:faire_blague
+- Vous connaissez une blague ?
+- Tu connais une blague ?
+- Racontez-moi une blague
+- Raconte-moi une blague
+- raconte-moi une blague
+- Faites des blagues
+- Fais des blagues
+- Raconte-moi une blague
+- Tu connais des blagues ?
+- Vous connaissez quelque chose de drôle ?
+- Tu connais quelque chose de drôle ?
+- Racontez-moi quelque chose de drôle
+- Raconte-moi quelque chose de drôle
+- Faites quelque chose de drôle
+- Fais quelque chose de drôle
+- Fais une vanne
+- Je veux rire
+- Distrais-moi
+- Raconte-moi une blague
+- Tu connais des blagues ?
+
+## intent:quel_genre
+- Garçon ou fille ?
+- gaçon ou fille ?
+- Fille ou garçon ?
+- fille ou garçon ?
+- Vous êtes un garçon ou une fille ?
+- Tu es un garçon ou une fille ?
+- Vous êtes une fille ou un garçon ?
+- Tu es une fille ou un garçon ?
+- Homme ou femme ?
+- homme ou femme ?
+- Femme ou homme ?
+- femme ou homme ?
+- Vous êtes un homme ou une femme ?
+- Tu es un homme ou une femme ?
+- Vous êtes une femme ou un homme ?
+- Tu es une femme ou un homme ?
+- Bonhomme ou bonnefemme ?
+- bonhomme ou bonnefemme ?
+- Bonnefemme ou bonhomme ?
+- bonnefemme ou bonhomme ?
+- Vous êtes un bonhomme ou une bonnefemme ?
+- Tu es un bonhomme ou une bonnefemme ?
+- Vous êtes une bonnefemme ou un bonhomme ?
+- Tu es une bonnefemme ou un bonhomme ?
+- Quel genre êtes-vous ?
+- Quel genre es-tu ?
+- Mec ou gonzesse ?
+- Boy or girl ?
+- Girl or boy ?

@@ -6,6 +6,7 @@ import requests
 import numpy as np
 from tqdm import tqdm
 from typing import Text, Dict, Any, List
+import re
 
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
@@ -87,13 +88,17 @@ class ActionRechercher(Action):
                 # dispatcher.utter_message(message)
 
                 # en les concaténant tous dans un même message
-                message = random.choice(retour)
+                message = '\"' + random.choice(retour) + '\"'
                 for i in range(min(len(bm25_result), arg_dict['es_nb_max_result'])):
-                    message = message + '\n* [{}]({})'.format(
-                            bm25_result.iloc[i]['Titre'],
-                            bm25_result.iloc[i]['Lien']
+                    current_titre = bm25_result.iloc[i]['Titre'].replace('\"', '')
+                    current_lien = bm25_result.iloc[i]['Lien'].replace('\"', '')
+                    current_lien = re.sub('\s+', '', current_lien)
+                    message = message + ' \"{}\" \"{}\" '.format(
+                            current_titre,
+                            current_lien
                             )
                 dispatcher.utter_message(message)
+                print('message: {}'.format(message))
 
                 # puis retourne le slot "recherche" à "reussie",
                 # et retourne le slot "relance" à "False"
@@ -146,3 +151,40 @@ class ActionDefaultFallback(Action):
             SlotSet("relance", True),
             FollowupAction("action_rechercher"),
             ]
+
+
+class Conversation(Action):
+    """Retourne le utter correspondant à l'intent conversationnel détecté."""
+
+    def name(self):
+        return "action_conversation"
+
+    def run(self, dispatcher, tracker, domain):
+        intent = tracker.latest_message["intent"].get("name")
+
+        # récupère l'utter conversationnel correspondant à l'intent détecté
+        if intent in [
+            "saluer",
+            "identite", 
+            "insulter",
+            "createur",
+            "meteo",
+            "possibilites",
+            "isbot",
+            "quel_age",
+            "quelle_langue",
+            "quelle_heure",
+            "qui_suis_je",
+            "quel_nom",
+            "origine_lieu",
+            "origine_construction",
+            "faire_connaissance",
+            "faire_blague",
+            "quel_genre",
+            "merci",
+            "affirmer",
+            "infirmer",
+            "complimenter"
+        ]:
+            dispatcher.utter_template("utter_" + intent, tracker)
+        return []
